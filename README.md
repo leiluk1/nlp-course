@@ -1,15 +1,11 @@
 # NLP Course Assignments
 
-Done by:
-
-*Name*: Leila Khaertdinova
-
-*Email*: l.khaertdinova@innopolis.university
-
-*Group number*: BS21 DS-02 
-
 
 This repository contains my solutions of the assignments for the Natural Language Processing (NLP) course offered at Innopolis University. The course is part of the Data Science track and covers a wide range of topics in NLP, including lexical and semantic analysis, word embeddings, and transformer-based language modeling.
+
+**Maintained by:**
+
+*Name*: Leila Khaertdinova | *Email*: l.khaertdinova@innopolis.university | *Group*: BS21 DS-02 
 
 
 ## Assignment Structure
